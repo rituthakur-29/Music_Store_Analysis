@@ -42,3 +42,8 @@ Modify or add queries for further exploration
 📎 **PROJECT LINK**
 Feel free to explore the project and give feedback!
 [Music_Store_Analysis](https://github.com/rituthakur-29/Music_Store_Analysis.git)
+
+
+Schema- Music Store Database
+![ER DIAGRAM](Schema.png)
+
