@@ -45,5 +45,5 @@ Feel free to explore the project and give feedback!
 
 
 Schema- Music Store Database
-![ER DIAGRAM](Schema.png)
+[ER DIAGRAM](Music_database Schema.png)
 
